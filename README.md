@@ -1,7 +1,7 @@
 # ☺️Hello everyone, Welcome to my GitHub!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=200&color=&color=0&text=ALUCINADO&textBg=false&section=header&fontColor=ff1493&animation=twinkling&stroke=ff1493&desc=Front-End%20Developer%20|%20HTML%20|%20CSS%20|%20JavaScript%20|%20Git&descAlignY=70&descSize=20&fontAlignY=30&strokeWidth=2" alt="Super-Helois - Full Stack Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=200&color=&color=0&text=SUPER-HELOIS&textBg=false&section=header&fontColor=ff1493&animation=twinkling&stroke=ff1493&desc=Front-End%20Developer%20|%20Back-End%20|%20CSS%20|%20JavaScript%20|%20Git&descAlignY=70&descSize=20&fontAlignY=30&strokeWidth=2" alt="Super-Helois - Full Stack Developer" />
 </p>
 
 ![profile views](https://komarev.com/ghpvc/?username=Alucinado-dev)
