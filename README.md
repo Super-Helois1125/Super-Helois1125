@@ -1,7 +1,7 @@
 # ☺️Hello everyone, Welcome to my GitHub!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=200&color=&color=0&text=ALUCINADO&textBg=false&section=header&fontColor=ff1493&animation=twinkling&stroke=ff1493&desc=Front-End%20Developer%20|%20HTML%20|%20CSS%20|%20JavaScript%20|%20Git&descAlignY=70&descSize=20&fontAlignY=30&strokeWidth=2" alt="Lucino De Campos - Front-End Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=200&color=&color=0&text=ALUCINADO&textBg=false&section=header&fontColor=ff1493&animation=twinkling&stroke=ff1493&desc=Front-End%20Developer%20|%20HTML%20|%20CSS%20|%20JavaScript%20|%20Git&descAlignY=70&descSize=20&fontAlignY=30&strokeWidth=2" alt="Super-Helois - Full Stack Developer" />
 </p>
 
 ![profile views](https://komarev.com/ghpvc/?username=Alucinado-dev)
@@ -31,10 +31,10 @@
 ## 📩 Contact me via following method:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/lucino-de-campos/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/mauirodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="91" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/Super-Helois1125/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="91" height="40" alt="linkedin logo"  />
   </a>
-  <a href="lucinogabriel1510@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="renanbraga968@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="91" height="40" alt="gmail logo"  />
   </a>
   <a href="528043710487855115" target="_blank" rel="noopener noreferrer">
@@ -71,8 +71,6 @@ my technical expertise and contribute to the success of the team.
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=22gchqnsczvfhgqtbv7igvx3y&count=10" alt="Spotify recently played"  />
 </div>
 
-## 📄 Come and see my portfolio.
 
-<a>
-  <img width='300px' height='300px' src='/img/Helois-logo.jpg' alt='screenshot of my portfolio' />
-</a>
+
+
