@@ -6,7 +6,7 @@
 
 ![profile views](https://komarev.com/ghpvc/?username=Alucinado-dev)
 
-## 💻 Tecnologias Que Domino
+## 💻 Technologies I Mastered
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -28,11 +28,11 @@
 
 ![cute gif](/img/emily-in-the-cyberpunk-city_800.gif)
 
-## 📩 Entre em contato comigo
+## 📩 Contact me via following method:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucino-de-campos/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="91" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/mauirodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="91" height="40" alt="linkedin logo"  />
   </a>
   <a href="lucinogabriel1510@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="91" height="40" alt="gmail logo"  />
@@ -42,12 +42,13 @@
   </a>
 </div>
 
-## 📚 Sobre Mim
+## 📚 About Me
 
-Sou apaixonado por tecnologia, games, animes e cultura pop. aprecio muito arte digital e adoro incluir em meus projetos, assim
-como a estética neon, digital e pixel art. Gosto também de um bom papo sobre ciência, universo, antiguidades, e praticamente tudo que der na telha. Ainda me considero como engatinhando na programção mas tenho muita garra, vontade de aprender e sou muito comunicativo, se quiser fique a vontade em me contatar para batermos um papo.
+A highly skilled and motivated Full Stack AI Engineer with 10+ years of experience in development and
+implementing web applications. Seeking a challenging position in a dynamic organization where I can utilize 
+my technical expertise and contribute to the success of the team.
 
-## 📊 Gráficos e Commits
+## 📊 Charts and Commits
 
 ![pacman commits](/svg/pacman-contributions.svg)
 
@@ -64,14 +65,14 @@ como a estética neon, digital e pixel art. Gosto também de um bom papo sobre c
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alucinado-dev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-## 🎧 Minha vibe no momento
+## 🎧 My vibe right now
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=22gchqnsczvfhgqtbv7igvx3y&count=10" alt="Spotify recently played"  />
 </div>
 
-## 📄 Venha Conhecer Meu Portifólio
+## 📄 Come and see my portfolio.
 
 <a>
-  <img width='300px' height='300px' src='/img/Screenshot-Alucinado-Dev-Portfolio.jpeg' alt='screenshot do meu portifólio' />
+  <img width='300px' height='300px' src='/img/Helois-logo.jpg' alt='screenshot of my portfolio' />
 </a>
