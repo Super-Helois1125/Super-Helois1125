@@ -34,7 +34,7 @@
   <a href="https://www.linkedin.com/in/Super-Helois1125/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="91" height="40" alt="linkedin logo"  />
   </a>
-  <a href="renanbraga968@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="jacksonwong.ai@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="91" height="40" alt="gmail logo"  />
   </a>
   <a href="1336527909535612998" target="_blank" rel="noopener noreferrer">
