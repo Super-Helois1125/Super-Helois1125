@@ -1,6 +1,6 @@
 # ☺️Hello everyone, Welcome to my GitHub!
 
-<p align="center">
+||<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=speech&height=200&color=&color=0&text=SUPER-HELOIS&textBg=false&section=header&fontColor=ff1493&animation=twinkling&stroke=ff1493&desc=Front-End%20Developer%20|%20Back-End%20Developer%20|%20App%20|%20DevOps%20Engineer&descAlignY=70&descSize=20&fontAlignY=30&strokeWidth=2" alt="Super-Helois - Full Stack Developer" />
 </p>
 
@@ -67,7 +67,7 @@ my technical expertise and contribute to the success of the team.
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=22gchqnsczvfhgqtbv7igvx3y&count=10" alt="Spotify recently played"  />
 </div>
-
+||
 
 
 
